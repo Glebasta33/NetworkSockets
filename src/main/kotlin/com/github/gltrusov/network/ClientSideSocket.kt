@@ -1,4 +1,4 @@
-package com.github.gltrusov
+package com.github.gltrusov.network
 
 import java.net.InetSocketAddress
 import java.net.Socket

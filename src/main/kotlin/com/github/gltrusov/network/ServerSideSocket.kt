@@ -1,4 +1,4 @@
-package com.github.gltrusov
+package com.github.gltrusov.network
 
 import java.io.PrintWriter
 import java.net.ServerSocket
